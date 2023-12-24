@@ -27,4 +27,4 @@ classification report:
 
 
 ## Conclusion
-In conclusion, this model is able to classify images as resume and non resume with a high precision of 0.94
+In conclusion, this model is able to classify images as resume and non resume with a high accuracy of 0.94
