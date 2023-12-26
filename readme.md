@@ -13,7 +13,7 @@ The dataset used for this project is the [Net Imagedataset](http://www.image-net
    git clone https://github.com/Chaitalivnaik/chaitali-bureau-assignment.git
    cd your-repository
 
-2. Execute each code cell sequentially
+2. Execute each code cell sequentially from the fast.ipynb file
 
 ## Results
 
